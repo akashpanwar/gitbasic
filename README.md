@@ -5,9 +5,6 @@ Git is a version control system used for tracking changes in computer files. It 
 ## Git Version Control
 ![business-org](https://github.com/akashpanwar/gitbasic/assets/10152224/7dd420a4-c93d-481d-9ab0-74bfceb1f027)
 
-## Git Cheat Sheet
-![Git Cheat Sheet](https://github.com/akashpanwar/gitbasic/assets/10152224/db4fae95-7816-4d2e-b932-440e8d57665c)
-
 ## Commands
 - git clone 
 - git status
@@ -20,4 +17,8 @@ Git is a version control system used for tracking changes in computer files. It 
 - git merge
 - git rebase
 - git log
+- git revert
+- git reset
 
+## Git Cheat Sheet
+![Git Cheat Sheet](https://github.com/akashpanwar/gitbasic/assets/10152224/db4fae95-7816-4d2e-b932-440e8d57665c)
